@@ -38,39 +38,3 @@ Assicurati di avere tutti i file nelle cartelle corrette:
 
     File .h personalizzati in librerie/
 
-📁 Struttura del progetto
-
-DOORS/
-├── main.c
-├── librerie/
-│   ├── schermata_start.h
-│   ├── schermata_s.h
-│   ├── ...
-├── png/
-│   ├── personaggio_html-1.png
-│   ├── porta.png
-│   ├── ...
-├── efetto_sonoro/
-│   ├── start.mp3
-│   ├── porta.mp3
-│   ├── ...
-
-🚀 Idee future
-
-    Classifica punteggi
-
-    Modalità infinita
-
-    Supporto a controller
-
-👥 Autori
-
-    👾 Nome tuo (logica e gameplay)
-
-    🎨 Nome artista (grafica e ambientazione)
-
-    🔊 Nome audio designer (musiche e suoni)
-
-📜 Licenza
-
-Questo progetto è distribuito sotto licenza MIT. Puoi usarlo, modificarlo e condividerlo liberamente.
