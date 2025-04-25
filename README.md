@@ -26,15 +26,3 @@ SPACE	Riprova dopo la sconfitta
 
     Sistema operativo: Windows / Linux
 
-🔧 Compilazione
-
-gcc -o doors main.c -lraylib -lm -ldl -lpthread -lrt -lGL
-
-Assicurati di avere tutti i file nelle cartelle corrette:
-
-    Immagini PNG in png/
-
-    Suoni in efetto_sonoro/
-
-    File .h personalizzati in librerie/
-
